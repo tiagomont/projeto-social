@@ -7,8 +7,8 @@
 }
 
 html, body {
-	height: 100vh;
-	width: 100vw;
+	height: 98vh;
+	width: 98vw;
 	background: black url('../imagens/fundo-madeira.jpg') no-repeat top center fixed;
 	background-size: cover;
 }
