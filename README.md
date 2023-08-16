@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Social" src="imagens/projeto-social-page.png" width="100%">
+  <img alt="Projeto Social" src="imagens/projeto-social-page.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
